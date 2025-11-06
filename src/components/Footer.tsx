@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
-    <footer className="relative bg-gradient-to-br from-emerald-600 via-emerald-700 to-emerald-600">
+    <footer className="relative bg-gradient-to-br from-orange-500 via-orange-600 to-orange-500">
       {/* Background Pattern */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.08),transparent_50%)]"></div>
       
@@ -162,7 +162,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-white/20 bg-emerald-800/50 backdrop-blur-sm">
+        <div className="border-t border-white/20 bg-orange-800/50 backdrop-blur-sm">
           <div className="container mx-auto px-4 py-8">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 md:gap-6">
               <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6 text-white/90 text-sm">
