@@ -54,17 +54,16 @@ const UeberUns = () => {
                 <h3 className="text-2xl font-bold mb-6 text-primary">Unsere Geschichte</h3>
                 <div className="space-y-4">
                   <p className="text-gray-700 leading-relaxed text-lg">
-                    Seit 1975 sind wir Ihr vertrauensvoller Partner für Premium-Heizöl in Hamburg 
-                    und ganz Deutschland. Mit über 50 Jahren Erfahrung und Expertise haben wir uns 
-                    als einer der führenden Heizöl-Händler etabliert. Was vor einem halben Jahrhundert 
-                    als familiengeführtes Unternehmen begann, ist heute ein modernes, deutschlandweit 
-                    agierendes Premium-Unternehmen mit modernsten Tankfahrzeugen und volldigitalisierten 
-                    Bestell- und Lieferprozessen.
+                    Seit 2014 sind wir Ihr vertrauensvoller Partner für Premium-Heizöl in Hamburg 
+                    und ganz Deutschland. Mit über 11 Jahren Erfahrung und Expertise haben wir uns 
+                    als einer der führenden Heizöl-Händler etabliert. Was 2014 als modernes Unternehmen 
+                    begann, ist heute ein deutschlandweit agierendes Premium-Unternehmen mit modernsten 
+                    Tankfahrzeugen und volldigitalisierten Bestell- und Lieferprozessen.
                   </p>
                   <p className="text-gray-700 leading-relaxed text-lg">
-                    Unser Erfolgsrezept seit 1975: Die perfekte Kombination aus über 50 Jahren 
+                    Unser Erfolgsrezept seit 2014: Die perfekte Kombination aus über 11 Jahren 
                     Erfahrung, persönlicher Betreuung und modernster Technik. Transparente Preise 
-                    und absolute Zuverlässigkeit – Werte, die seit einem halben Jahrhundert Bestand haben. 
+                    und absolute Zuverlässigkeit – Werte, die seit über einem Jahrzehnt Bestand haben. 
                     Über 100.000 zufriedene Kunden vertrauen bereits auf unseren bewährten Premium-Service.
                   </p>
                 </div>
@@ -84,7 +83,7 @@ const UeberUns = () => {
                 <div className="space-y-4">
                   <div className="flex justify-between items-center p-4 bg-gray-50 rounded-xl">
                     <span className="text-gray-600 font-medium">Gegründet:</span>
-                    <span className="font-bold text-primary text-lg">1975</span>
+                    <span className="font-bold text-primary text-lg">2014</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-primary/5 rounded-xl border border-primary/20">
                     <span className="text-gray-600 font-medium">Standort:</span>
@@ -98,9 +97,9 @@ const UeberUns = () => {
                     <span className="text-gray-600 font-medium">Kunden:</span>
                     <span className="font-bold text-primary text-lg">100.000+</span>
                   </div>
-                  <div className="flex justify-between items-center p-4 bg-gradient-to-r from-emerald-50 to-green-50 rounded-xl border-2 border-emerald-300">
+                  <div className="flex justify-between items-center p-4 bg-gradient-to-r from-orange-50 to-orange-50 rounded-xl border-2 border-orange-300">
                     <span className="text-gray-600 font-medium">Expertise:</span>
-                    <span className="font-bold text-emerald-700 text-xl">50+ Jahre</span>
+                    <span className="font-bold text-orange-700 text-xl">11+ Jahre</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-gray-50 rounded-xl">
                     <span className="text-gray-600 font-medium">Bestellung:</span>
@@ -324,7 +323,7 @@ const UeberUns = () => {
                     <p className="text-gray-700"><strong className="text-primary">USt-ID:</strong> DE427997071</p>
                   </div>
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">Gründung:</strong> 1975</p>
+                    <p className="text-gray-700"><strong className="text-primary">Gründung:</strong> 2014</p>
                   </div>
                   
                   <div className="mt-6 p-4 bg-gray-50/80 rounded-xl border border-gray-200/50">

@@ -19,7 +19,7 @@ export const companyStructuredData = {
     "postalCode": "20354",
     "addressCountry": "DE"
   },
-  "foundingDate": "1975",
+  "foundingDate": "2014",
   "numberOfEmployees": "10-50",
   "description": "Premium Heizöl ab 70 Cent pro Liter mit kostenloser Lieferung ab 2.000L deutschlandweit.",
   "areaServed": {

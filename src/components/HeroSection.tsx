@@ -76,7 +76,7 @@ const HeroSection = () => {
             <div className="flex flex-wrap gap-3">
               <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
                 <Award className="w-4 h-4 text-orange-600" />
-                <span className="text-sm font-medium text-gray-700">Seit 1975 – 50 Jahre Expertise</span>
+                <span className="text-sm font-medium text-gray-700">Seit 2014 – 11 Jahre Expertise</span>
               </div>
               <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
                 <div className="flex">
@@ -145,9 +145,9 @@ const HeroSection = () => {
             {/* CTA Section */}
             <div className="space-y-4">
               <p className="text-xl text-gray-700 leading-relaxed">
-                Seit 1975 liefern wir als traditionsreicher Heizöl-Händler aus Hamburg Premium-Qualität 
+                Seit 2014 liefern wir als moderner Heizöl-Händler aus Hamburg Premium-Qualität 
                 zu<span className="font-semibold text-orange-600"> bis zu 30% günstigeren Preisen</span> als lokale Anbieter – deutschlandweit. 
-                50 Jahre Erfahrung garantieren höchste Qualität und Zuverlässigkeit.
+                11 Jahre Erfahrung garantieren höchste Qualität und Zuverlässigkeit.
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-600">
                 <div className="w-2 h-2 bg-orange-500 rounded-full animate-pulse"></div>

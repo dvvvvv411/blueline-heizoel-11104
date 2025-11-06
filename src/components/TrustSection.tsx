@@ -39,9 +39,9 @@ const TrustSection = () => {
     },
     {
       icon: Award,
-      value: "50+",
+      value: "11+",
       label: "Jahre Expertise",
-      sublabel: "seit 1975",
+      sublabel: "seit 2014",
       color: "from-orange-400 to-orange-500"
     },
     {

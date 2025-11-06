@@ -87,8 +87,8 @@ const CompanySection = () => {
             
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed mb-12">
               <p>
-                Seit 1975 Ihr verlässlicher Partner für Premium-Heizöl aus Hamburg. 
-                Mit über 50 Jahren Erfahrung und Expertise beliefern wir Privat- und 
+                Seit 2014 Ihr verlässlicher Partner für Premium-Heizöl aus Hamburg. 
+                Mit über 11 Jahren Erfahrung und Expertise beliefern wir Privat- und 
                 Geschäftskunden bundesweit mit erstklassigem Heizöl zu unschlagbaren Konditionen.
               </p>
               
@@ -98,9 +98,9 @@ const CompanySection = () => {
               </p>
               
               <p>
-                Unser Versprechen seit 1975: Transparente Preise, bewährter Premium-Service 
+                Unser Versprechen seit 2014: Transparente Preise, bewährter Premium-Service 
                 und kostenlose Lieferung ab 2.000 Litern deutschlandweit. 
-                50 Jahre Erfahrung, über 100.000 zufriedene Kunden in ganz Deutschland – 
+                11 Jahre Erfahrung, über 100.000 zufriedene Kunden in ganz Deutschland – 
                 das ist die LM-Heizöl Garantie.
               </p>
             </div>

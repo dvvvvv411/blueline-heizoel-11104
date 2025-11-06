@@ -48,7 +48,7 @@ const USPSection = () => {
             Warum <span className="gradient-text">LM-Heizöl</span>?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Seit 1975 – Ihr Partner für Premium Heizöl aus Hamburg. 50 Jahre Erfahrung, auf die Sie sich verlassen können.
+            Seit 2014 – Ihr Partner für Premium Heizöl aus Hamburg. 11 Jahre Erfahrung, auf die Sie sich verlassen können.
           </p>
         </div>
 
