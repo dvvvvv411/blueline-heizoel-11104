@@ -1,24 +1,21 @@
 export const companyInfo = {
   // Brand Information
-  brandName: "Treffer Heizöl",
-  legalName: "Treffer GmbH",
+  brandName: "LM-Heizöl",
+  legalName: "LM Lubricants GmbH",
   
   // Address
-  street: "Anton-Jaumann-Str. 1",
-  postalCode: "86675",
-  city: "Buchdorf",
+  street: "Alsterufer 20",
+  postalCode: "20354",
+  city: "Hamburg",
   country: "DE",
   
   // Contact Information
-  email: "info@treffer-heizoel.de",
-  phoneDisplay: "0221 29291090",
-  phoneIntl: "+49 221 29291090",
-  phoneTel: "+4922129291090",
+  email: "info@lm-heizoel.de",
   
   // Legal Information
-  court: "Amtsgericht Augsburg",
-  hrb: "HRB 322",
-  vatId: "DE427997071",
+  court: "Amtsgericht Hamburg",
+  hrb: "HRB 130020",
+  vatId: "DE427997469",
   ceo: "",
   
   // Business Information
@@ -28,17 +25,17 @@ export const companyInfo = {
   // Assets
   logo: "/lovable-uploads/treffer-logo.png",
   
-  // Geographic Coordinates (Buchdorf, near Anton-Jaumann-Str. 1)
+  // Geographic Coordinates (Hamburg Alsterufer)
   geo: {
-    lat: 48.6734,
-    lng: 10.8652
+    lat: 53.5594,
+    lng: 9.9926
   },
   
   // Website
-  website: "https://treffer-heizoel.de",
+  website: "https://lm-heizoel.de",
   
   // Full address string
-  fullAddress: "Anton-Jaumann-Str. 1, 86675 Buchdorf",
+  fullAddress: "Alsterufer 20, 20354 Hamburg",
   
   // Company description
   shortDescription: "Ihr vertrauensvoller Partner für hochwertiges Heizöl. Deutschlandweite Premium-Lieferung ab 70 Cent pro Liter.",

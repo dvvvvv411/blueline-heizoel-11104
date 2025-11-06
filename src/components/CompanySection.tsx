@@ -35,8 +35,8 @@ const CompanySection = () => {
       title: "Unser Standort",
       content: (
         <>
-          Anton-Jaumann-Str. 1<br />
-          86675 Buchdorf<br />
+          Alsterufer 20<br />
+          20354 Hamburg<br />
           Deutschland
         </>
       ),
@@ -47,10 +47,10 @@ const CompanySection = () => {
       title: "E-Mail Kontakt",
       content: (
         <a 
-          href="mailto:info@treffer-heizoel.de" 
+          href="mailto:info@lm-heizoel.de" 
           className="text-primary hover:text-primary/80 transition-colors font-medium hover:underline"
         >
-          info@treffer-heizoel.de
+          info@lm-heizoel.de
         </a>
       ),
       color: "from-orange-500 to-orange-600"
@@ -82,26 +82,26 @@ const CompanySection = () => {
             </div>
             
             <h2 className="text-5xl lg:text-6xl font-bold text-gray-900 mb-8">
-              Über <span className="gradient-text">Treffer Heizöl</span>
+              Über <span className="gradient-text">LM-Heizöl</span>
             </h2>
             
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed mb-12">
               <p>
-                Seit 1975 Ihr verlässlicher Partner für Premium-Heizöl aus Bayern. 
+                Seit 1975 Ihr verlässlicher Partner für Premium-Heizöl aus Hamburg. 
                 Mit über 50 Jahren Erfahrung und Expertise beliefern wir Privat- und 
                 Geschäftskunden bundesweit mit erstklassigem Heizöl zu unschlagbaren Konditionen.
               </p>
               
               <p>
                 Durch direkte Raffineriekooperationen und optimierte Logistik bieten wir Ihnen 
-                <span className="font-semibold text-orange-700"> Premium Heizöl ab 70 Cent pro Liter</span> – von Bayern nach ganz Deutschland geliefert.
+                <span className="font-semibold text-orange-700"> Premium Heizöl ab 70 Cent pro Liter</span> – von Hamburg nach ganz Deutschland geliefert.
               </p>
               
               <p>
                 Unser Versprechen seit 1975: Transparente Preise, bewährter Premium-Service 
                 und kostenlose Lieferung ab 2.000 Litern deutschlandweit. 
                 50 Jahre Erfahrung, über 100.000 zufriedene Kunden in ganz Deutschland – 
-                das ist die Treffer Heizöl Garantie.
+                das ist die LM-Heizöl Garantie.
               </p>
             </div>
 
@@ -164,13 +164,13 @@ const CompanySection = () => {
               <h4 className="text-xl font-bold text-gray-900 mb-6 text-center">Rechtliche Angaben</h4>
               <div className="space-y-3 text-center">
                 <div className="p-4 bg-white/50 rounded-2xl">
-                  <p className="font-semibold text-gray-900">Treffer Heizöl (Treffer GmbH)</p>
+                  <p className="font-semibold text-gray-900">LM-Heizöl (LM Lubricants GmbH)</p>
                 </div>
                 <div className="p-4 bg-white/50 rounded-2xl">
-                  <p className="text-gray-700">Amtsgericht Augsburg HRB 322</p>
+                  <p className="text-gray-700">Amtsgericht Hamburg HRB 130020</p>
                 </div>
                 <div className="p-4 bg-white/50 rounded-2xl">
-                  <p className="text-gray-700">USt-ID: DE427997071</p>
+                  <p className="text-gray-700">USt-ID: DE427997469</p>
                 </div>
               </div>
             </div>
